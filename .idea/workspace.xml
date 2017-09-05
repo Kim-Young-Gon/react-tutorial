@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1385cd7f-05de-4b96-a352-010c694027ee" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/gony_macbook.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/react-tutorial.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -180,12 +174,20 @@
       <workItem from="1504511762516" duration="124000" />
       <workItem from="1504511916913" duration="191000" />
       <workItem from="1504512155510" duration="9516000" />
-      <workItem from="1504581318521" duration="257000" />
+      <workItem from="1504581318521" duration="277000" />
     </task>
+    <task id="LOCAL-00001" summary="setting file delete">
+      <created>1504581614547</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504581614547</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10088000" />
+    <option name="totallyTimeSpent" value="10108000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -249,6 +251,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="setting file delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting file delete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
